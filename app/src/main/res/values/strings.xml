@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerRecrutStaff</string>
+    <string name="role">Должность:</string>
+    <string name="name">Имя:</string>
+    <string name="surName">Фамилия:</string>
+    <string name="age">Возраст:</string>
+    <string name="role_hint">Должность</string>
+    <string name="name_hint">Имя</string>
+    <string name="surName_hint">Фамилия</string>
+    <string name="age_hint">Возраст</string>
+    <string name="save">Сохранить</string>
+    <string name="exit">Выход</string>
+</resources>
